@@ -10,6 +10,7 @@ module.exports = {
     '@storybook/addon-links',
     '@storybook/addon-essentials',
     '@storybook/addon-interactions',
+    '@storybook/addon-jest',
     // Add PostCSS into addons for compiling tailwind below
     {
       name: '@storybook/addon-postcss',
